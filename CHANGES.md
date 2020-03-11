@@ -21,6 +21,8 @@ Notable changes between versions.
   * If set, change `worker_priority` from `Low` to `Spot` (action required)
   * Set controller's Azure disk caching to None
   * Associate subnets (in addition to NICs) with security groups (aesthetic)
+* Add support for Flatcar Container Linux ([#664](https://github.com/poseidon/typhoon/pull/664))
+  * Requires accepting Flatcar Linux Azure Marketplace terms
 
 #### Google Cloud
 
